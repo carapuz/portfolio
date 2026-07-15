@@ -1,0 +1,6 @@
+{
+  "name": "3D Artist Portfolio",
+  "description": "A premium cinematic portfolio for a professional 3D environment and character artist, featuring high-quality renders, detailed technical specifications, structured CV timeline, and commission inquiry contact forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
