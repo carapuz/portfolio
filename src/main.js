@@ -48,6 +48,7 @@ const translations = {
     "hero-log-4": "PRODUCER CODEBUILD DETECTED: STATUS OK (V4.2)...",
     "hero-log-5": "COGNITIVE GRAPHICS INTERACTION MODULE ON...",
     "hero-scroll-ind": "SCROLL TO EXPLORE ARCHIVE",
+    "hero-scroll": "SCROLL TO EXPLORE",
 
     // Showreels
     "showreel-sub": "CINEMATIC FRAMES & GAMEPLAY FOOTAGE",
@@ -137,6 +138,7 @@ const translations = {
     "about-statement-text": "I am a passionate 3D artist with over 6 years of industry experience specializing in high-fidelity environment design, hard-surface modeling, and character sculpting. Utilizing industry-leading tools like Blender, ZBrush, Substance Painter, and Unreal Engine 5, I translate complex conceptual sketches into production-ready 3D assets optimized for cinematic films and AAA game engines.",
     "about-loc": "LOCATION: VANCOUVER, BC, CANADA",
     "about-commissions": "COMMISSIONS: DIRECT PORTAL OPEN",
+    "about-artstation": "ArtStation Portfolio",
     "about-sub": "PIPELINE STANDARDS",
     "about-prof-title": "Software Proficiency",
     "about-sh-notice": "Pipeline standards verified. Highly experienced with standard high-to-low poly baking, clean topology, UV layout optimization, and game asset integration workflows.",
@@ -234,6 +236,7 @@ const translations = {
     "hero-log-4": "WYKRYTO KOD PRODUCENCKI: STATUS OK (V4.2)...",
     "hero-log-5": "MODUŁ INTERAKCJI GRAFIKI KOGNITYWNEJ WŁĄCZONY...",
     "hero-scroll-ind": "PRZEWIŃ, ABY ODKRYĆ ARCHIWUM",
+    "hero-scroll": "PRZEWIŃ, ABY ODKRYĆ",
 
     // Showreels
     "showreel-sub": "KADRY FILMOWE I ZAPISY ROZGRYWKI",
@@ -323,6 +326,7 @@ const translations = {
     "about-statement-text": "Jestem pasjonatem grafiki 3D z ponad 6-letnim doświadczeniem w branży, specjalizującym się w projektowaniu środowisk o wysokiej gęstości, modelowaniu twardych powierzchni (hard-surface) oraz rzeźbieniu postaci. Wykorzystując wiodące narzędzia takie jak Blender, ZBrush, Substance Painter i Unreal Engine 5, przekładam skomplikowane szkice koncepcyjne na gotowe do produkcji modele 3D, zoptymalizowane pod kątem filmów oraz silników gier AAA.",
     "about-loc": "LOKALIZACJA: VANCOUVER, BC, KANADA",
     "about-commissions": "ZLECENIA: BEZPOŚREDNI PORTAL OTWARTY",
+    "about-artstation": "Portfolio ArtStation",
     "about-sub": "STANDARDY PROCESU TWÓRCZEGO",
     "about-prof-title": "Biegłość w Oprogramowaniu",
     "about-sh-notice": "Standardy pipeline'u zweryfikowane. Bogate doświadczenie w wypiekaniu map high-to-low poly, czystej topologii, optymalizacji mapowania UV oraz integracji modeli z silnikami gier.",
